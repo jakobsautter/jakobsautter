@@ -1,6 +1,6 @@
 ### Hi, I am Jakob 👋 and I ❤️ writing code
 
-**Field of interests**: Services Oriented Architectures/MicroServices Distributed Systems, Search Based Software Engineering, Generative Techniques/Meta Programming 
+**Field of interests**: Services Oriented Architectures/MicroServices, Distributed Systems, Search Based Software Engineering, Generative Techniques/Meta Programming 
 
 ### Skills 🛠️
 - **Languages**: &nbsp;&nbsp;&nbsp;                                                    Java, C#, JavaScript/TypeScript
