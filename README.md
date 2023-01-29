@@ -24,6 +24,7 @@
 
 - 😄 My pronouns: he/him
 - ⚡ Fun fact: Still love to play late 90s Nintendo games 
+- 🚀 Check out my [web site](https://thebunkstie.github.io) 
 - 🚀 More information on my [Xing](https://www.xing.com/profile/Jakob_Sautter2) 
  
 <!--
